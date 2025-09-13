@@ -12,7 +12,7 @@
 
 - Конструктор із викликом `base(...)`;
 
-  ![alt text](media/image.png)
+  ![alt text](image.png)
 
 - Перевизначення методу `virtual/override`;
 
@@ -26,4 +26,4 @@
 
 Програма виводить споживання енергії девайсу, та сумарне мпоживання енергії.
 
-![alt text](media/image.png)
+![alt text](media/image-3.png)
