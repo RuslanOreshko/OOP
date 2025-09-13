@@ -12,7 +12,7 @@
 
 - Конструктор із викликом `base(...)`;
 
-  ![alt text](image.png)
+  ![alt text](media/image.png)
 
 - Перевизначення методу `virtual/override`;
 
